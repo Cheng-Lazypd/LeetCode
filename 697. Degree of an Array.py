@@ -31,3 +31,5 @@ class Solution:
                 if length<minlength:
                     minlength=length
         return minlength
+#Runtime 1313ms
+#Memory 19.66MB
