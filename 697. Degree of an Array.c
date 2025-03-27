@@ -53,3 +53,5 @@ int findShortestSubArray(int* nums, int numsSize) {
     }
     return min_leng;
 }
+//Runtime 70ms
+//Memory 10.53MB
